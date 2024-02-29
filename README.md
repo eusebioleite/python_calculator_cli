@@ -33,7 +33,7 @@ Each function takes two arguments (`x` and `y`) and returns the result of the co
 
 ## Requirements
 
-- Python 3.x
+- Python 3.10+
 - argparse (standard library)
 
 ## License
